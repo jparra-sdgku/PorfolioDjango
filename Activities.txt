@@ -1,0 +1,14 @@
+Activity 1
+
+1. Create a Django project. Note: Should be a new project, do not use the protfolio project. 
+2. Run the project and display a Hello, world! in the screen. 
+
+---------------
+
+Activity 2 - The About Me Page 
+About me section will be the main page of your portfolio project. 
+That is, is going to be the first page to be displayed when accessing your portfolio project. 
+
+1. Create the template to display your about me section.
+2. Create the function-based view to render the template. 
+3. Create the URL pattern. 
